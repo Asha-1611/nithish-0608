@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">✨ C Nithish Reddy ✨</h1>
 
 <div align="center">
@@ -27,11 +27,9 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-```python
+python
 class NithishReddy:
     def __init__(self):
         self.name       = "C Nithish Reddy"
@@ -55,9 +53,7 @@ class NithishReddy:
 
 me = NithishReddy()
 me.say_hi()
-````
 
----
 
 ## ☁️ DevOps & Cloud Tech Stack
 

@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">✨ C Nithish Reddy ✨</h1>
 
 <div align="center">
@@ -31,23 +30,22 @@
 
 ## 👨‍💻 About Me
 
-```python
 class NithishReddy:
     def __init__(self):
-        self.name       = "C Nithish Reddy"
-        self.role       = "DevOps Engineer"
+        self.name = "C Nithish Reddy"
+        self.role = "DevOps Engineer"
         self.experience = "1+ Year"
-        self.company    = "Zee Entertainment Enterprises Limited"
-        self.platform   = "ZEE5"
-        self.interests  = [
+        self.company = "Zee Entertainment Enterprises Limited"
+        self.platform = "ZEE5"
+        self.interests = [
             "DevOps",
             "Cloud Infrastructure",
             "Kubernetes",
             "CI/CD",
             "Infrastructure as Code"
         ]
-        self.focus      = "Building scalable and reliable production systems"
-        self.contact    = "nithish.reddy.1606@gmail.com"
+        self.focus = "Building scalable and reliable production systems"
+        self.contact = "nithish.reddy.1606@gmail.com"
 
     def say_hi(self):
         print("Automate. Deploy. Monitor. Improve. 🚀")
@@ -55,9 +53,6 @@ class NithishReddy:
 
 me = NithishReddy()
 me.say_hi()
-````
-
----
 
 ## ☁️ DevOps & Cloud Tech Stack
 
@@ -222,6 +217,3 @@ Jira · Microsoft Excel · Agile/Scrum · Networking · Troubleshooting · Deplo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%"/>
 
 </div>
-```
-
-**Important:** Resume lo unna **10M+ concurrent streaming requests, 95% accuracy, 40%/30%/25% improvements** lanti numbers ni 그대로 use chesa because avi Nithish-provided resume details. GitHub profile lo kuda avi actual work/experience ki accurately represent avvali.

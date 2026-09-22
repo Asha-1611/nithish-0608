@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">✨ C Nithish Reddy ✨</h1>
 
 <div align="center">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 

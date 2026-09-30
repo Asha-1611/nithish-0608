@@ -223,5 +223,3 @@ Jira · Microsoft Excel · Agile/Scrum · Networking · Troubleshooting · Deplo
 
 </div>
 ```
-
-**Important:** Resume lo unna **10M+ concurrent streaming requests, 95% accuracy, 40%/30%/25% improvements** lanti numbers ni 그대로 use chesa because avi Nithish-provided resume details. GitHub profile lo kuda avi actual work/experience ki accurately represent avvali.
